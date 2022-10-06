@@ -14,7 +14,7 @@ https://github.com/LizaPardede/beerJestAutomation.git
 ```
 npm install
 ```
-- 
+
 
 # HOW TO RUN THE TEST
 ```
